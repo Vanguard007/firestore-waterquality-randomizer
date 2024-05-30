@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "add": "node index.js"
+    "add": "node index.js",
+    "del": "node del.js",
+    "hdel": "node hdel.js"
   },
   "keywords": [],
   "author": "",
